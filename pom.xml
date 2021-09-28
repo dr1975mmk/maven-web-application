@@ -100,13 +100,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
+	      <name>Mahesh Releases Nexus Repository</name>
 	      <url>http://13.233.25.121:8081/repository/wallmart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
+	      <name>Mahesh Snapshot Nexus Repository </name>
 	      <url>http://13.233.25.121:8081/repository/wallmart-snapshot/</url>
 	    </snapshotRepository>
 	    
